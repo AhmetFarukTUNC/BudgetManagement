@@ -52,6 +52,12 @@ This page allows you to easily view your income and expenses, helping you track 
 
 ![ADDDEBT](butce/images/borclar.png)
 
+## **NOTİFİCATİONS SCREEN**
+ 
+This page allows you to receive notifications whenever a category or income/expense is added. You can stay updated with instant notifications about every change, ensuring that you can track your finances more effectively. With notifications, you won't miss important updates and can easily access the most current information.
+
+![ADDDEBT](butce/images/bildirimler.png)
+
 
 
 
