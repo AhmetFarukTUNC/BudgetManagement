@@ -74,8 +74,3 @@ The Category Addition Page helps you track your income and expenses more systema
 
 
 
-
-
-## **License**  
-This project is licensed under the MIT License.
-
