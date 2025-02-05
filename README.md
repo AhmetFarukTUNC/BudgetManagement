@@ -58,6 +58,15 @@ This page allows you to receive notifications whenever a category or income/expe
 
 ![ADDDEBT](butce/images/bildirimler.png)
 
+## **QUICK ACCESS PANEL**
+ 
+The sliding panel on your homepage provides quick access to all the options you need to manage your finances. With buttons for adding categories, viewing notifications, and adding budgets, you can perform all your tasks with just a click.
+
+![ADDDEBT](butce/images/yanpencere.png)
+
+
+
+
 
 
 
