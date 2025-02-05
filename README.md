@@ -64,6 +64,12 @@ The sliding panel on your homepage provides quick access to all the options you 
 
 ![ADDDEBT](butce/images/yanpencere.png)
 
+## **ADD CATEGORY SCREEN**
+ 
+The Category Addition Page helps you track your income and expenses more systematically. On this page, you can create new categories, edit existing ones, and organize your financial data more efficiently.
+
+![ADDDEBT](butce/images/kategoriekle.png)
+
 
 
 
