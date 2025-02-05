@@ -35,8 +35,12 @@ This **budget tracking app**, developed with **Flutter**, helps you efficiently 
 ## **Screenshots**
 ## **HOMEPAGE**
 
+This screenshot showcases the homepage of a financial tracking mobile application. The interface displays a greeting message, "Good day, Ahmet," along with the user's total balance, income, and expenses. The income and expense summary is visually distinguished with blue, green, and red cards. Below, a transaction list presents individual records, including transaction name, amount, date, category, and type (income/expense). The bottom navigation bar contains icons for Home, Add, Details, Accounts, and Notifications. The design is clean and user-friendly.
+
 ![HOMEPAGE](butce/images/anasayfa.png)
+
 ## **ADD DEBT**
+
 ![ADDDEBT](butce/images/borcekle.png)
 
 
