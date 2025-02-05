@@ -34,7 +34,8 @@ This **budget tracking app**, developed with **Flutter**, helps you efficiently 
 
 ## **Screenshots**  
 
-<img src="images/logo.png" alt="Anasayfa" width="200">
+![Açıklama Metni](images/resim.png)
+
 <img src="images/logo.png" alt="Kategori ekle" width="200">
 <img src="images/logo.png" alt="Logo" width="200">
 <img src="images/logo.png" alt="Logo" width="200">
