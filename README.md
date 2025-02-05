@@ -34,7 +34,7 @@ This **budget tracking app**, developed with **Flutter**, helps you efficiently 
 
 ## **Screenshots**  
 
-![Açıklama Metni](butce/images/Ekran görüntüsü 2025-02-05 225245.png)
+![Açıklama Metni](/images/Ekran görüntüsü 2025-02-05 225245.png)
 
 <img src="images/logo.png" alt="Kategori ekle" width="200">
 <img src="images/logo.png" alt="Logo" width="200">
