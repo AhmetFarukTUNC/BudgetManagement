@@ -36,8 +36,8 @@ This **budget tracking app**, developed with **Flutter**, helps you efficiently 
 ## **HOMEPAGE**
 
 ![HOMEPAGE](butce/images/anasayfa.png)
-##
-![ADD DEBT](butce/images/borcekle.png)
+## **ADD DEBT**
+![ADDDEBT](butce/images/borcekle.png)
 
 
 
