@@ -1,0 +1,10 @@
+KONU : BUTCE TAKİP UYGULAMASI 
+
+HAZIRLAYANLAR : TAHA YAKIT - 214210092 / AHMET FARUK TUNC - 214210084
+
+Flutter ile geliştirdiğim bütçe takip uygulaması, kullanıcıların gelir ve giderlerini kolayca takip etmelerine, finansal durumlarını analiz etmelerine olanak tanıyor. Kullanıcı dostu arayüzü, esnek kategorilendirme sistemi ve özet raporlama özellikleriyle bütçe yönetimini daha verimli hale getirmek için tasarlandı.
+
+Bu web sitesi, Flutter ile geliştirdiğim bütçe takip uygulamasını tanıtmak için Laravel kullanılarak tasarlandı. Uygulamanın özelliklerini detaylı bir şekilde açıklayan ve kullanıcıların uygulamayı indirip denemelerini kolaylaştıran bir platform olarak hizmet veriyor. Modern bir arayüz ve hızlı erişim sağlayan bu site, kullanıcıların finansal yönetim ihtiyaçlarına yönelik çözümleri keşfetmelerine yardımcı oluyor.
+
+
+Bu proje, kullanıcıların gelir ve giderlerini düzenli bir şekilde takip edebilmelerini, finansal farkındalıklarını artırmalarını ve harcama alışkanlıklarını optimize etmelerini sağlamak amacıyla geliştirilmiştir. Uygulama, işlem kayıtları ve bildirim özellikleriyle kullanıcıların bütçe yönetimini kolaylaştırmayı hedefler.
